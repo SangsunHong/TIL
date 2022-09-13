@@ -29,5 +29,15 @@
  - 끝내려면 :wq 를 입력하면 됩
  - 파일명을 입력하려면 :w '파일명'
  - 저장 후 끝내려면 :q
- - [참고자료] 링크:https://ssayebee.github.io/wiki/how_to_use_vim.html
-ㅁ
+ - [참고자료] [링크](https://ssayebee.github.io/wiki/how_to_use_vim.html)
+
+#### 마크다운사용법
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
