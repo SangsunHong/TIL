@@ -30,3 +30,4 @@
  - 파일명을 입력하려면 :w '파일명'
  - 저장 후 끝내려면 :q
  - [참고자료] 링크:https://ssayebee.github.io/wiki/how_to_use_vim.html
+ㅁ
