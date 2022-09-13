@@ -42,7 +42,7 @@ Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 //
 
-- 비정상종료시 해결방법
+- vim 비정상종료시 해결방법
  - vim이 비정상종료되면 'swp'파일이 생성됨
  - ATTENTION 문구가뜨는경우
   1. 두 프로세스, 두 사람이 동시에 한 파일을 수정하는 경우
