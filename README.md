@@ -41,3 +41,13 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 //
+
+- 비정상종료시 해결방법
+ - vim이 비정상종료되면 'swp'파일이 생성됨
+ - ATTENTION 문구가뜨는경우
+  1. 두 프로세스, 두 사람이 동시에 한 파일을 수정하는 경우
+  2. crash가 나서 vim이 비정상적으로 닫힌 경우
+ - 기존에 입력했던 내용을 복구하고 싶을때는 vim -r 파일명을 입력하거나 Recovery모드로 진입
+ - 정상 종료 후, swp 파일 삭제
+  - rm .789.txt.swp <-- rm 명령어는 remove 약자
+  
