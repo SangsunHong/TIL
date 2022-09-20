@@ -93,13 +93,21 @@ Link: [Google][googlelink]
 이거 올려도 되는지 확인을 안했는데 문제가 없겠죠?
 
 ### 나의 첫번째 웹개발 및 호스팅(나의 간략소개)
+
 [나의 간략 소개](http://mysshong.dothome.co.kr/)
 
 ##Git Bash 세팅하기
- - [깃 최초설정](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95) 
- - $ git config --global user.name "John Doe"
- - $ git config --global user.email johndoe@example.com
- - $ git config --global core.autocrlf true
 
+- [깃 최초설정](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95)
+- $ git config --global user.name "John Doe"
+- $ git config --global user.email johndoe@example.com
+- $ git config --global core.autocrlf true
 
+#### 리포지토리
 
+- 정의: 여러파일을 하나로 모은컬렉션
+- 일반디렉터리와 디포지터리의 차이 .git
+
+...
+git status
+...
