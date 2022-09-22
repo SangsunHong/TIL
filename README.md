@@ -99,15 +99,34 @@ Link: [Google][googlelink]
 ##Git Bash 세팅하기
 
 - [깃 최초설정](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95)
-- $ git config --global user.name "John Doe"
-- $ git config --global user.email johndoe@example.com
-- $ git config --global core.autocrlf true
+
+  ```python
+  - $ git config --global user.name "John Doe"
+  - $ git config --global user.email johndoe@example.com
+  - $ git config --global core.autocrlf true
+  ```
 
 #### 리포지토리
 
 - 정의: 여러파일을 하나로 모은컬렉션
 - 일반디렉터리와 디포지터리의 차이 .git
+- 주요명령어 // 복사 shift + insert
 
-...
-git status
-...
+  ```python
+  git status
+  git checkout 번호 : 특정시점으로 돌아가기
+  git checkout main : 원래대로 돌아가기
+  git clone https://github.com/SangsunHong/TIL.git
+  git rebase
+  git push origin main
+  git log
+  git reset --hard "hash"   /hash 없으면 마지막상태로 돌아감 git reset --hard
+  git revert " hash"
+  git revert --no-commit "hash"
+  git branch add-coach
+  git branch
+  git switch add-coach
+  git checkout            /git 2.23부터 switch, restore로 분리
+  git switch -c new-team  /기존 git checkout -b new-team
+  git branch -d           /브렌치삭제
+  ```
