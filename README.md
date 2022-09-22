@@ -4,6 +4,20 @@
 
 > > 매일매일 공부한 것을 기록합니다.
 
+# RPA(Robotic Process Automation)
+## 유아이패스(UiPath) 커리큘럼
+
+### RPA는 Robotic Process Automation으로 로봇과 같은 자동화처리시스템을 말한다.
+
+### 4차산업혁명과 인공지능시대에 유용한 솔루션이라고 생각하며, 코로나19 확산으로 크게 발전하였다.
+
+### 그러나 인공지능과 연계되는 부분은 아직 속제로 남아있으며, 최근에 핫한 분야라 할 수 있다.
+
+### 2021년 국내시장은 약1000억원 규모이며, 선두주자 제품은 유아이패스(UiPath)와
+
+### 오토메이션애니웨어(Automation Anywhere)가 있다
+
+![image](https://user-images.githubusercontent.com/54345891/190119182-8bab19c8-b9c5-40cc-a3d2-b8ecb9b34821.png)
 ## 2022-09-13
 
 ### 과정명 RPA 1기 웹프로그래밍 기획과 기본
@@ -54,7 +68,6 @@
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
-
 //
 
 - vim 비정상종료시 해결방법
@@ -87,10 +100,6 @@ Link: [Google][googlelink]
 
 -리포? 라고 줄임말을 사용한다.
 
-### HTML관련 기초문제
-
-[10문제 링크](https://docs.google.com/forms/d/e/1FAIpQLSdaw-uNyqj9yiezNFhFALw9OGyOz0he5XGscjhN9GmR5t9r4A/viewform)
-이거 올려도 되는지 확인을 안했는데 문제가 없겠죠?
 
 ### 나의 첫번째 웹개발 및 호스팅(나의 간략소개)
 
@@ -130,6 +139,7 @@ Link: [Google][googlelink]
   git switch -c new-team  /기존 git checkout -b new-team
   git branch -d           /브렌치삭제
   ```
+  
 
 # HTML5
 
@@ -345,18 +355,3 @@ body { font-family : “맑은 고딕“, 돋움, 굴림; }
         }
 ```
 
-# RPA(Robotic Process Automation)
-
-## 유아이패스(UiPath) 커리큘럼
-
-### RPA는 Robotic Process Automation으로 로봇과 같은 자동화처리시스템을 말한다.
-
-### 4차산업혁명과 인공지능시대에 유용한 솔루션이라고 생각하며, 코로나19 확산으로 크게 발전하였다.
-
-### 그러나 인공지능과 연계되는 부분은 아직 속제로 남아있으며, 최근에 핫한 분야라 할 수 있다.
-
-### 2021년 국내시장은 약1000억원 규모이며, 선두주자 제품은 유아이패스(UiPath)와
-
-### 오토메이션애니웨어(Automation Anywhere)가 있다
-
-![image](https://user-images.githubusercontent.com/54345891/190119182-8bab19c8-b9c5-40cc-a3d2-b8ecb9b34821.png)
