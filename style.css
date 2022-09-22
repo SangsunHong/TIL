@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gugi&family=Noto+Serif+KR:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Gugi&family=Noto+Serif+KR:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /* font-family: 'Gugi', cursive; */
+  /* font-family: 'Noto Serif KR', serif; */
+  /* font-family: 'Cute Font', cursive; */
+  font-family: 'Hahmlet', serif;
+}
+
+body {
+  font-size: 14px;
+  background: darkblue url('./bg.jpg') no-repeat fixed;
+  background-size: cover;
+}
+
+#container {
+  max-width: 960px;
+  margin: 20px auto;
+  padding: 2em;
+  border: 1px solid #ccc;
+  background-color: rgba(255, 235, 205, 0.486);
+}
+
+/* 헤더 부분 */
+header {
+  text-align: center;
+  margin: auto 2em;
+}
+
+header h1 {
+  margin: 1.2em auto;
+  /* font-family: 'Gugi', cursive; */
+  /* font-family: 'Noto Serif KR', serif; */
+  font-family: 'Cute Font', cursive;
+  /* font-family: 'Hahmlet', serif; */
+  text-transform: uppercase;
+  text-shadow: 3px 2px #ccc;
+  font-size: 4em;
+  letter-spacing: 0.6em;
+  font-weight: 700;
+}
+
+header h2 {
+  color: #555;
+  font-size: 1.7em;
+  font-style: italic;
+}
+
+/* 내용 부분 */
+main {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  margin-top: 3em;
+}
+
+section {
+  margin: auto 1em 4em 2em;
+  line-height: 1.0;
+}
+
+.career {
+  line-height: 1.2;
+}
+
+section h2 {
+  border-bottom: 1px solid #222;
+  color: #5c5b5b;
+  padding: 0.8em;
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+/* 왼쪽, 프로필 이미지 부분 */
+
+#pf-img {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+#pf-img img {
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  box-shadow: 1px 1px #eee;
+}
+
+/* 왼쪽, 자기 소개 부분 */
+#sns {
+  margin-top: 2em;
+  list-style: none;
+}
+
+#sns li {
+  margin-top: 1em;
+  margin-left: 2em;
+}
+
+#left p {
+  line-height: 1.2;
+}
+
+/* 오른쪽, 경력 부분 */
+h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 1.1em auto;
+}
+
+#right h2 {
+  text-transform: capitalize;
+  font-size: 1.5em;
+  margin: 2em auto 2em -1.5em;
+}
+
+#right p {
+  line-height: 1.0;
+  margin-left: 1.5em;
+  font-size: 1.1em;
+}
+
+dt {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 1em auto;
+}
+
+dd {
+  margin-left: 1.5em;
+  line-height: 1.5em;
+}
+
+#left {
+  padding-right: 2em;
+  border-right: 1px solid lightgray;
+}
+
+#right {
+  padding-left: 2em;
+  line-height: 1.4;
+}
+
+table {
+  border: 2px solid #000;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #000;
+  padding: 10px 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  font-size: 0.9em;
+  line-height: 2;
+  display: inline-block;
+  /* border: 1px solid #222; */
+  /* padding: 1px 2px; */
+  margin: 1px;
+
+}
+
+i {
+  font-size: 30px;
+}
+
+.shadow {
+  text-shadow: 2px 2px 3px #6c199c;
+}

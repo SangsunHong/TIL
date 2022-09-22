@@ -327,7 +327,7 @@ body { font-family : “맑은 고딕“, 돋움, 굴림; }
       }
 ```
 
-- list-style-type 속성 : disk(●), circle(○), square(■), decimal, decimal-leading-zero, lower-roman, upper-roman, lower-alpha(latin), upper-alpha(latin), hangul(가나다), none
+- list-style-type 속성 : disk(●), circle(○), square(■), decimal, decimal-leading-zero, lower-roman, upper-roman, lower-alpha(latin), upper-alpha(lgitatin), hangul(가나다), none
   ```python
   list-style: hangul;
   ```
@@ -354,4 +354,10 @@ body { font-family : “맑은 고딕“, 돋움, 굴림; }
         border-collapse: collapse;
         }
 ```
-
+## 2022년 09월23일
+### 실전에서 github branch 일반적인 구성 5가지
+ - main(master) : 실행중인 서비스
+ - hotfix : 긴급버그수정
+ - release : 업데이트버전 or 차기 제품 서비스준비
+ - develop : 개발
+ - feature : 일부 요소개발, 시험개발
