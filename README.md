@@ -3,7 +3,7 @@
 # Today I Learned
 
 > > 매일매일 공부한 것을 기록합니다.
-
+전체과정 : Python, SQL, R, RPA, WEB 과정으로 진행 : 2022.05.10 ~ 2022.11.07(6개월)
 # RPA(Robotic Process Automation)
 ## 유아이패스(UiPath) 커리큘럼
 
