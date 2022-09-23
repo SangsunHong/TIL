@@ -24,11 +24,9 @@ body {
   margin: 20px auto;
   padding: 2em;
   border: 1px solid #ccc;
-<<<<<<< HEAD
-  background-color: rgba(255, 235, 205, 0.486);
-=======
+
   background-color: rgba(226, 235, 235, 0.5);
->>>>>>> develop
+
 }
 
 /* 헤더 부분 */
@@ -69,11 +67,9 @@ section {
 }
 
 .career {
-<<<<<<< HEAD
-  line-height: 1.2;
-=======
+
   line-height: 0.5;
->>>>>>> develop
+
 }
 
 section h2 {
@@ -126,15 +122,10 @@ h3 {
 }
 
 #right p {
-<<<<<<< HEAD
-  line-height: 1.0;
-  margin-left: 1.5em;
-  font-size: 1.1em;
-=======
+
   line-height: 0.7;
   margin-left: 1.5em;
   font-size: 1.0em;
->>>>>>> develop
 }
 
 dt {
