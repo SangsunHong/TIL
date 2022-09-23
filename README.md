@@ -17,7 +17,7 @@
 
 ### 오토메이션애니웨어(Automation Anywhere)가 있다
 
-![image](https://user-images.githubusercontent.com/54345891/190119182-8bab19c8-b9c5-40cc-a3d2-b8ecb9b34821.png)
+![RPA 450](https://user-images.githubusercontent.com/54345891/191967443-9203c5a7-9533-456a-9b71-36b5e7057c1f.png)
 
 ## 9월08일 HTML5
 - 그동안 보기만했던 웹 개발을 시작하였다.
