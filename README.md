@@ -176,7 +176,9 @@
 ## CSS
 - 웹의 뼈대(HTML)에 옷을 입히는 스타일 적용 디자인(CSS)
 - CSS IS AWESOME
-  ![image](https://user-images.githubusercontent.com/54345891/190633202-4564d0fb-94ec-4875-bd96-ed7903aed3bf.png)
+
+![스타일500](https://user-images.githubusercontent.com/54345891/191966825-f61981cb-c13d-4b20-b1ab-ea9334ae1442.png)
+
 ## 9월19일
 - 스타일 시트:
 - 내부 스타일 시트: 웹 문서 안에 스타일 시트 포함
@@ -278,6 +280,9 @@ body { font-family : “맑은 고딕“, 돋움, 굴림; }
  - 패딩(padding) : 콘텐츠 영역과 테두리 사이의 여백
  - 테두리(border)
  - 마진(margin) : 요소와 요소 사이의 여백
+ 
+ ![boxorg](https://user-images.githubusercontent.com/54345891/191967032-22736b2e-e0b8-4a68-968d-b90ebb63e5fc.png)
+
  - width, height 속성 : px, %, auto
  - calc() 함수 : 화면 전체 너비에서 80px을 뺀 크기를 박스 모델의 너비로 지정 
       ```python
