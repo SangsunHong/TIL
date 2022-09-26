@@ -73,8 +73,11 @@
 ```
 ### 웹 요소 위치 지정
 - position 속성 : static, relative, absolute, fixed
+
  1)absolute(부모 요소에 `position: relative;`라고 지정해야함)
+
  2)`fixed`(스크롤시에도 항상같은 위치)
+ 
 - 위칫값은 어떻게 지정 : left, right, bottom, top
 
 #### 배경 위에 글자 표시하기
@@ -212,9 +215,13 @@
   </style>
 ```
 - background-position 속성 : 백분율, 길이, 키워드
+
  1)백분율(가로세로) `background-position : 30% 60%;`
+
  2)길이 'background-position:30px 20px;'
+
  3)키워드 'background-position:center bottom;'
+
 - background-attachment 속성 : scroll, fixed(화면을 스크롤해도 배경 이미지는 같은 자리에 표시 `background-attachment: fixed;`)
 - 불릿 대신 배경 이미지 사용하기
 ```python
