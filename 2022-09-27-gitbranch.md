@@ -48,3 +48,15 @@ Github 사이트에서 Pull Request 생성
 
 병합 방향 설정
 `Create pull request`
+
+1. 로컬 저장소에서 새로운 브런치를 생성하고 이동함(`git checkout -b ~`)
+2. 이동한 브랜치에서 원하는 파일 수정 후 저장
+3. 저장한 파일을 스테이징하고(`git add ~`), 커밋 생성(`git commit -m "~"`)
+4. 3번에서 만든 것을 원격 저장소에 업로드(`git push 브랜치이름 파일이름`)
+5. `git push origin 브랜치이름` 으로 브랜치를 원격 저장소에 업로드
+6. 원격 저장소에서 'Compare & pull request' 버튼 클릭
+7. 'Create pull request' 클릭 후 메모 작성
+8. 'Merge pull request'로 원격 저장소 메인브런치 병합 승인 요청
+9. 최종권자가 승인('Confirm merge')
+10. 원격 저장소 메인브런치에 병합 완료
+11. 로컬 저장소에서 main으로 변경 후(`git checkout main`), 변경된 메인을 다시 받음(`git pull origin main`)
