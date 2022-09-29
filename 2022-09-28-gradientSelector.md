@@ -1,43 +1,43 @@
-### 그러데이션으로 배경 채우기
-#### CSS 그러데이션
-- 선형 그러데이션 : linear-gradient()
+### 그라데이션으로 배경 채우기
+#### CSS 그라데이션
+- 선형 그라데이션 : linear-gradient()
  1) to 예약어 다음에 방향을 나타내는 예약어를 최대 2개까지 사용
   `background: linear-gradient(to right bottom, #00f, #fff);`
   `background: linear-gradient(to top, #fff, #000);`
  2) 방향이나 각도 모두 생략하면 to bottom으로 인식
- - 선형 그러데이션 - 각도 :윗부분이 0deg이고, 시계 방향으로 회전하면서 증가
+ - 선형 그라데이션 - 각도 :윗부분이 0deg이고, 시계 방향으로 회전하면서 증가
  `background: linear-gradient(45deg, #f50, #fff); /* 45도 (오른쪽 위)방향으로, 빨간색에서 흰색으로 */`
- - 선형 그러데이션 – 색상 중지점
+ - 선형 그라데이션 – 색상 중지점
   1) 색상만 지정할 수도 있고 색상과 함께 중지점의 위치도 함께 지정할 수도 있음
   2) rgba() 함수를 사용해서 불투명도를 함께 지정할 수 있음
   `background: linear-gradient(to top, #004381, #fff 40%, #99ceff);`
-- 원형 그러데이션 : radial-gradient()
+- 원형 그라데이션 : radial-gradient()
 `radial-gradient(<모양> <크기> at <위치>, <색상 중지점>, …)`
- 1) 원형 그러데이션 - 모양 circle(원형)과 ellipse(타원형); 지정하지 않으면 ellipse로 인식
+ 1) 원형 그라데이션 - 모양 circle(원형)과 ellipse(타원형); 지정하지 않으면 ellipse로 인식
  `background: radial-gradient(#fff, #f50);`
- 2) 원형 그러데이션 – 색상 중지점 : 색상과 어느 부분에서 색상을 바꿀지 **위치(반지름 %)**도 함께 지정
+ 2) 원형 그라데이션 – 색상 중지점 : 색상과 어느 부분에서 색상을 바꿀지 **위치(반지름 %)**도 함께 지정
  `background: radial-gradient(circle, #fff, yellow 30%, #f50);`
  `border-radius: 50%;`/* 사각형 원으로만들어보기 */
- - 원형 그러데이션 - 위치 : 
-  1) 그러데이션이 시작하는 중심 지정(지정하지 않으면 요소의 가운데)
+ - 원형 그라데이션 - 위치 : 
+  1) 그라데이션이 시작하는 중심 지정(지정하지 않으면 요소의 가운데)
   2) at 키워드와 함께 위치 값 지정
   3) 사용할 수 있는 값 : 키워드나 백분율 `left, center, right; top, center, bottom`
   `background: radial-gradient(circle at 30% 15%, #fff, yellow 30%, #f50);`
-- 원형 그러데이션 – 크기
+- 원형 그라데이션 – 크기
  1) closest-side : 그라데이션 가장자리가 측면에 닿을때까지
  2) closest-corner : 가장가까운 가장자리 코너에 닿을 때 까지
  3) farthest-side : 가장 멀리 떨어진 측면에 닿을때까지
  4) farthest-corner : 가장 멀리 떨어진 코너에 닿을때까지
-- 그러데이션 반복하기
- 1) repeating-linear-gradient : 선형 그러데이션 반복
+- 그라데이션 반복하기
+ 1) repeating-linear-gradient : 선형 그라데이션 반복
   `background: repeating-linear-gradient(yellow, red 20px);`
   `background: repeating-linear-gradient(yellow, yellow 20px, red 20px, red 40px);`
- 2) repeating-radial-gradient : 원형 그러데이션 반복
+ 2) repeating-radial-gradient : 원형 그라데이션 반복
  `background: repeating-radial-gradient(circle, white, #ccc 10%);`
  `background: repeating-radial-gradient(circle, white, white 10%, #ccc 10%, #ccc 20%);`
-- 그러데이션으로 테두리 채우기
+- 그라데이션으로 테두리 채우기
  `border-image: linear-gradient(#f6b73c, #4d9f0c) 30;`
-- 그러데이션 제너레이터
+- 그라데이션 제너레이터
  [css gradient generator](https://gradient-designer.csspost.com/)
  [css gradient](https://cssgradient.io/)
 
