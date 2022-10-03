@@ -38,8 +38,12 @@
 ```
 
 #### git에서 과거로 돌아가는 두 방식
-reset : 원하는 시점으로 돌아간 뒤 이후 내역들을 지움
-revert : 되돌리기 원하는 시점의 커밋을 거꾸로 실행
+
+```
+  reset : 원하는 시점으로 돌아간 뒤 이후 내역들을 지움
+  revert : 되돌리기 원하는 시점의 커밋을 거꾸로 실행
+```
+
 #### Merge 관련
 1. base가 같으면 Fast-forword
 2. base가 다르면 merge commit을 생성하여 auto merge (conflict는 스스로 처리)
