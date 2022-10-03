@@ -4,46 +4,63 @@
 ```
   commit	
   branch	
-  checkout		
+  checkout     // switch, retore로 분리		
   cherry-pick	
   reset	
   revert 
   rebase	
   merge
-  pull= fatch+merge
+  pull = fatch + merge
 ```
-
+#### Vim 사용법
+```
+  입력 시작	i(insert)	명령어 입력 모드에서 텍스트 입력 모드로 전환
+  입력 종료	ESC	텍스트 입력 모드에서 명령어 입력 모드로 전환
+  저장 없이 종료	:q	
+  저장 없이 강제 종료	:q!	입력한 것이 있을 때 사용
+  저장하고 종료	:wq	입력한 것이 있을 때 사용
+  위로 스크롤	k	git log등에서 내역이 길 때 사용
+  아래로 스크롤	j	git log등에서 내역이 길 때 사용
+```
 #### 실습사이트
 [실습 사이트1](https://github.com/Violet-Bora-Lee/git-tutorial)
+
 [실습 사이트2](https://learngitbranching.js.org/)
+
 [실습 사이트3](https://git-school.github.io/visualizing-git/)
 
 #### 몇가지 명령어 사용 예
-`git reflog` 명령어를 사용해 HEAD가 가리키던 커밋 이력을 볼 수 있음
-`git checkout main^`  	캐럿은 한단계 부모 위치로 이동
-`git checkout HEAD~4` 	HEAD는 4단계 부모로 이동
-`git branch -f main HEAD~3`	main을 강제이동(메인이 아닌 branch에서 사용
+git reflog 명령어를 사용해 HEAD가 가리키던 커밋 이력을 볼 수 있음
+git checkout main  	캐럿은 한단계 부모 위치로 이동
+git checkout HEAD~4 	HEAD는 4단계 부모로 이동
+git branch -f main HEAD~3	main을 강제이동(메인이 아닌 branch에서 사용)
 
+#### git에서 과거로 돌아가는 두 방식
+reset : 원하는 시점으로 돌아간 뒤 이후 내역들을 지움
+revert : 되돌리기 원하는 시점의 커밋을 거꾸로 실행
 #### Merge 관련
 1. base가 같으면 Fast-forword
 2. base가 다르면 merge commit을 생성하여 auto merge (conflict는 스스로 처리)
-3. github Pull Requeset에서 merge할수있는 3가지 방법: 
- 1) create a merge commit
- 2) squash and merge 
- 3) rebase and merge
-4. merge 옵션 예
-`git checkout main`
-`git merge --no-ff feature`  /가독성 좋음/
 
-`git checkout main`
-`git merge --squash feature` /하나로 합쳐져서 세세한 구분이 힘듬/
-`git commit -m "squash merge message"`
+3. github Pull Requeset에서 merge할수있는 3가지 방법: 
+```
+  create a merge commit
+  squash and merge 
+  rebase and merge
+```
+4. merge 옵션 예
+```
+  git checkout main
+  git merge --no-ff feature  /가독성 좋음/
+  git checkout main
+  git merge --squash feature /하나로 합쳐져서 세세한 구분이 힘듬/
+  git commit -m "squash merge message"
+```
 
 #### rebase 관련 : /Base를 재 설정 하여 합치는것 /일종의 복사 /깨끝한 커밋/ 
-`git checkout feature`  
-`git rebase master`	/최상단에 복사 붙여넣기, 한줄로 모든 커밋이 저장됨/
-
 ```
+  git checkout feature  
+  git rebase master	/최상단에 복사 붙여넣기, 한줄로 모든 커밋이 저장됨/
   git remote add "branch name" 원격지 주소
   git fetch "branch name" main
   git rebase "branch name"/main
@@ -95,6 +112,7 @@
   git merge --continue //머지중 충돌하면, 충돌 해결 후 add commit 해야함. 
   git add 출돌해결파일
   git commit -m "커밋내용"
+  git branch -d 머지브랜치  // 머지한브랜치 삭제
 ```
 2) rebase는 리베이스할 브랜치로 이동후 실행
 ```
