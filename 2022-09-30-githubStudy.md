@@ -88,7 +88,7 @@
 #### 10월2일 연습
 [강의교재](https://www.yalco.kr/@git-github/4-4/)
 
-[동영상강의](https://www.yalco.kr/@git-github/1-1/)
+[동영상강의](https://www.youtube.com/watch?v=1I3hMwQU6GU)
 
 - 초기셋팅
 ```
