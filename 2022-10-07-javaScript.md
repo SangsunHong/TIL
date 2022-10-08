@@ -149,3 +149,5 @@ but, 우리는 아직 DOM을 공부하지 않았기 때문에 일단 document.wr
   document.write(`제 이름은  ${name} 입니다.`)
 
 ```
+#### 자바스크립트 변수
+
