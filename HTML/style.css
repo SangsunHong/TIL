@@ -6,7 +6,7 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   /* font-family: 'Gugi', cursive; */
   /* font-family: 'Noto Serif KR', serif; */
   /* font-family: 'Cute Font', cursive; */
@@ -20,11 +20,13 @@ body {
 }
 
 #container {
-  max-width: 960px;
-  margin: 20px auto;
-  padding: 2em;
+  max-width: 1450px;
+  margin: 10px auto;
+  padding: 1.5em;
   border: 1px solid #ccc;
+
   background-color: rgba(226, 235, 235, 0.5);
+
 }
 
 /* 헤더 부분 */
@@ -41,9 +43,9 @@ header h1 {
   /* font-family: 'Hahmlet', serif; */
   text-transform: uppercase;
   text-shadow: 3px 2px #ccc;
-  font-size: 4em;
+  font-size: 3.5em;
   letter-spacing: 0.6em;
-  font-weight: 700;
+  font-weight: 650;
 }
 
 header h2 {
@@ -65,7 +67,9 @@ section {
 }
 
 .career {
-  line-height: 0.5;
+
+  line-height: 0.4;
+
 }
 
 section h2 {
@@ -118,6 +122,7 @@ h3 {
 }
 
 #right p {
+
   line-height: 0.7;
   margin-left: 1.5em;
   font-size: 1.0em;
