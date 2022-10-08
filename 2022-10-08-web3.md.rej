@@ -1,0 +1,14 @@
+diff a/2022-10-08-web3.md b/2022-10-08-web3.md	(rejected hunks)
+@@ -7,8 +7,10 @@
+ 2. 데이터 주권의 민주화, 
+ 3. 인공지능이 도입된 진보된 웹에 대한 비전, 그러한 비전을 실현화하는 기술 모음
+ 4. 블록체인 블록이 생성 되는 예
+-![based-blockchain](/html/images/based-blockchain.png)
+-![blockchain](/html/images/blockchain.png)
++
++![based-blockchain](/based-blockchain.png)
++![blockchain](/blockchain.png)
++
+ 
+ - 기술스택에 따른구분
+ 1. `Protocol Layer` : BlockChain Architecture; Layer1Protocol(Bitcoin, Ethereum, Solana)  + Bridge Protocol
