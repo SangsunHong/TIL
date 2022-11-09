@@ -70,8 +70,7 @@ IITP Professional Assessor(IITP 평가위원)
 
 2) HTML, CSS, JavaScript를 사용한 동적인 효과 (지도, 동영상)
 
-- [web개발_개인_프로젝트_반응형_홍상선](https://github.com/SangsunHong/SangsunHong/blob/main/Portfolio/%EB%B3%84%EC%B2%A82-web%EA%B0%9C%EB%B0%9C_%EA%B0%9C%EC%9D%B8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%98%EC%9D%91%ED%98%95_%ED%99%8D%EC%83%81%EC%84%A0.pdf)
-- http://mysshong.dothome.co.kr/
+- [web개발_개인_프로젝트_반응형_홍상선](https://github.com/SangsunHong/SangsunHong/blob/main/Portfolio/%EB%B3%84%EC%B2%A82-web%EA%B0%9C%EB%B0%9C_%EA%B0%9C%EC%9D%B8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%98%EC%9D%91%ED%98%95_%ED%99%8D%EC%83%81%EC%84%A0.pdf) // [한라봉 판매사이트 임시 업로드](http://mysshong.dothome.co.kr/)
 - [web개발_팀_프로젝트_반응형](https://github.com/SangsunHong/SangsunHong/blob/main/Portfolio/%EB%B3%84%EC%B2%A83-web%EA%B0%9C%EB%B0%9C_%ED%8C%80_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%98%EC%9D%91%ED%98%95.pdf)
 
 
