@@ -64,15 +64,15 @@ IITP Professional Assessor(IITP 평가위원)
 - UiPath Studio 2022. 4. 4
 - 많은 자료를 반복적으로 처리하는 작업을 RPA로 적용하면 업무 효율성을 높이고, 다양한 산업군에 RPA에 활용이 가능
 - Error Message를 처리하며, 모의 상황에서 실무 프로젝트에서 겪을 수 있는 점을 경험
- - RPA_REFramework_프로젝트보고서_홍상선.pdf
+ - [RPA_REFramework_프로젝트보고서_홍상선](https://github.com/SangsunHong/SangsunHong/blob/main/Portfolio/%EB%B3%84%EC%B2%A81-RPA_REFramework_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%B3%B4%EA%B3%A0%EC%84%9C_%ED%99%8D%EC%83%81%EC%84%A0.pdf)
 
 
 
 2) HTML, CSS, JavaScript를 사용한 동적인 효과 (지도, 동영상)
 
+- [web개발_개인_프로젝트_반응형_홍상선](https://github.com/SangsunHong/SangsunHong/blob/main/Portfolio/%EB%B3%84%EC%B2%A82-web%EA%B0%9C%EB%B0%9C_%EA%B0%9C%EC%9D%B8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%98%EC%9D%91%ED%98%95_%ED%99%8D%EC%83%81%EC%84%A0.pdf)
 - http://mysshong.dothome.co.kr/
-- web개발_개인_프로젝트_반응형_홍상선.pdf
-- web개발_팀_프로젝트_반응형.pdf
+- [web개발_팀_프로젝트_반응형](https://github.com/SangsunHong/SangsunHong/blob/main/Portfolio/%EB%B3%84%EC%B2%A83-web%EA%B0%9C%EB%B0%9C_%ED%8C%80_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%98%EC%9D%91%ED%98%95.pdf)
 
 
 
@@ -80,7 +80,7 @@ IITP Professional Assessor(IITP 평가위원)
 
 - 데이터수집(네이버 뉴스기사 웹크롤링), 워드클라우드(기사제목), 시각화(그래프)
 - Python, R, Jupyter Notebook, Visual Studio
-- 데이터기반문제해결_팀_프로젝트.pdf
+- [데이터기반문제해결_팀_프로젝트](https://github.com/SangsunHong/SangsunHong/blob/main/Portfolio/%EB%B3%84%EC%B2%A84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B8%B0%EB%B0%98%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0_%ED%8C%80_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 
 
 
