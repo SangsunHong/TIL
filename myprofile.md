@@ -28,7 +28,7 @@ IP(intellectual property) Academy Readers Club, Patent application and registrat
 IITP Professional Assessor(IITP 평가위원)
 
 🛠️ **새로운 도전을 좋아하며 개발자에 지원합니다.** 
-초반에는  SE Sales, Pre Sales로 시작하여 영업마케팅 분야에서 20여년 근무하였으며, 이후 스타드업 관련하여 특허, 사업기획, Strategic Planning, 연구소장 업무를 수행해 봤으며, 빅데이터기반 딥러닝개발 부트캠프(975시간)를 통하여 개발자로서의 준비를 하였습니다.
+초반에는  SE Sales, Pre Sales로 시작하여 영업마케팅 분야에서 20여년 근무하였으며, 이후 스타드업 관련하여 특허, 사업기획, Strategic Planning, 연구소장 업무를 수행해 봤으며, AI 엔지니어(RPA) 부트 캠프(960시간)를 통하여 개발자로서의 준비를 하였습니다.
 
 🌱 **지금까지 경험을 토대로 미래를 준비하는 개발자로 도전해 보려 합니다.**
 
