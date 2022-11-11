@@ -1,6 +1,6 @@
 # [🧑‍💻](https://www.emojiall.com/ko/emoji/🧑‍💻) 홍상선
 
-> 성실함과 아이디어를 가진 끈기와 책임감이 강한 **RPA 전문가**를 꿈꾸는 개발자입니다.
+> 성실함과 아이디어를 가진 끈기와 책임감이 강한 **데이터 전문가**를 꿈꾸는 신입 개발자입니다.
 
 ------
 
@@ -15,9 +15,9 @@ email. **[sshong3@naver.com](mailto:sshong3@naver.com)**
 
 🔒**IT 보안전문가**  📈**신사업(Startup) 기획 및 운영**  📊 **신입RPA 개발자**
 
-- IT 보안부문 영업마케팅 경험으로 다양한 업무 가능
-- AI 엔지니어 부트 캠프 성실하고 우수하게 수료
 - 책임감, 문제해결능력, 오픈마인드
+- AI 엔지니어 부트 캠프 성실하고 우수하게 수료
+- IT 보안부문 영업마케팅 경험으로 다양한 업무 가능
 - 기본적인 영어 사용이 가능 (Email 작성 등)
 
 🔗 **Sales & Marketing 경험**
@@ -28,7 +28,7 @@ IP(intellectual property) Academy Readers Club, Patent application and registrat
 IITP Professional Assessor(IITP 평가위원)
 
 🛠️ **새로운 도전을 좋아하며 개발자에 지원합니다.** 
-초반에는  SE Sales, Pre Sales로 시작하여 영업마케팅 분야에서 20여년 근무하였으며, 이후 스타드업 관련하여 특허, 사업기획, Strategic Planning, 연구소장 업무를 수행해 봤으며, AI 엔지니어(RPA) 부트 캠프(960시간)를 통하여 개발자로서의 준비를 하였습니다.
+초반에는  Sales Engineer, Pre Sales로 시작하여 영업마케팅 분야에서 20여년 근무하였으며, 이후 스타드업 관련하여 특허, 사업기획, Strategic Planning, 연구소장 업무를 수행해 봤으며, AI 엔지니어(RPA) 부트 캠프(960시간)를 통하여 개발자로서의 준비를 하였습니다.
 
 🌱 **지금까지 경험을 토대로 미래를 준비하는 개발자로 도전해 보려 합니다.**
 
